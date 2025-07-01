@@ -1,0 +1,14 @@
+/* Modern Styling */
+body {
+    background-color: #f8f9fa;
+}
+
+h1, h2, h3 {
+    color: #3e64ff;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.stMarkdown {
+    font-size: 16px;
+    line-height: 1.6;
+}
